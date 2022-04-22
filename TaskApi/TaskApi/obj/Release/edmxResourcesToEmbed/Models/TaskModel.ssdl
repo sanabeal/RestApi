@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PPLModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'PPL.vpms.TodoList' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="TodoList">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="500" />
+    <Property Name="Date" Type="char" MaxLength="10" />
+    <Property Name="Status" Type="nvarchar" MaxLength="5" />
+    <Property Name="EntryDate" Type="datetime" />
+    <Property Name="EntryBy" Type="varchar" MaxLength="50" />
+    <Property Name="NewDate" Type="char" MaxLength="13" />
+  </EntityType>
+  <EntityContainer Name="PPLModelStoreContainer">
+    <EntitySet Name="TodoList" EntityType="Self.TodoList" store:Type="Views" store:Schema="vpms">
+      <DefiningQuery>SELECT 
+    [TodoList].[ID] AS [ID], 
+    [TodoList].[Name] AS [Name], 
+    [TodoList].[Date] AS [Date], 
+    [TodoList].[Status] AS [Status], 
+    [TodoList].[EntryDate] AS [EntryDate], 
+    [TodoList].[EntryBy] AS [EntryBy], 
+    [TodoList].[NewDate] AS [NewDate]
+    FROM [vpms].[TodoList] AS [TodoList]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

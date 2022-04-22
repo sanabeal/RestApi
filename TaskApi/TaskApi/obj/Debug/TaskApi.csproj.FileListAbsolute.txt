@@ -1,0 +1,359 @@
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\ApplicationInsights.config
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\roslyn\csc.exe
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\roslyn\vbc.exe
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\TaskApi.dll.config
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\TaskApi.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\TaskApi.pdb
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Antlr3.Runtime.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\EntityFramework.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\EntityFramework.SqlServer.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AI.Web.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Security.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Newtonsoft.Json.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Owin.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Net.Http.Formatting.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.Helpers.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.Http.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.Http.Owin.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.Http.WebHost.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.Mvc.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.Optimization.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.Razor.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.WebPages.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\WebGrease.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AI.Web.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Newtonsoft.Json.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Net.Http.Formatting.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.Helpers.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.Http.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.Http.WebHost.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.Mvc.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.Optimization.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.Razor.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.WebPages.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Antlr3.Runtime.pdb
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\EntityFramework.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\EntityFramework.SqlServer.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Security.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\bin\System.Web.Http.Owin.xml
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\obj\Debug\TaskApi.dll
+C:\Users\sanabeal.kabir\Desktop\TaskApi\TaskApi\obj\Debug\TaskApi.pdb
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\ApplicationInsights.config
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\csc.exe
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\System.Collections.Immutable.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\vbc.exe
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\VBCSCompiler.exe
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\VBCSCompiler.exe.config
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\TaskApi.dll.config
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\TaskApi.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\TaskApi.pdb
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Antlr3.Runtime.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\EntityFramework.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\EntityFramework.SqlServer.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.Web.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.WindowsServer.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.ApplicationInsights.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Google.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Web.Infrastructure.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Newtonsoft.Json.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Owin.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Net.Http.Formatting.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Helpers.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.Owin.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.WebHost.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Mvc.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Optimization.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Razor.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.Deployment.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.Razor.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\WebGrease.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.Web.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.WindowsServer.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.ApplicationInsights.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Newtonsoft.Json.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Net.Http.Formatting.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Helpers.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.WebHost.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Mvc.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Optimization.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Razor.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.Deployment.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.Razor.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Antlr3.Runtime.pdb
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\EntityFramework.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\EntityFramework.SqlServer.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Google.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.Owin.xml
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\obj\Debug\TaskApi.csprojResolveAssemblyReference.cache
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\obj\Debug\TaskApi.dll
+E:\Task Schedule\Task Schedule\TaskApi\TaskApi\obj\Debug\TaskApi.pdb
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\ApplicationInsights.config
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\csc.exe
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\System.Collections.Immutable.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\System.Reflection.Metadata.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\vbc.exe
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\VBCSCompiler.exe
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\roslyn\VBCSCompiler.exe.config
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\TaskApi.dll.config
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\TaskApi.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\TaskApi.pdb
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Antlr3.Runtime.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\EntityFramework.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\EntityFramework.SqlServer.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.DependencyCollector.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.Web.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.WindowsServer.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.ApplicationInsights.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Google.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Web.Infrastructure.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Newtonsoft.Json.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Owin.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Net.Http.Formatting.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Helpers.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.Owin.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.WebHost.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Mvc.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Optimization.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Razor.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.Deployment.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.Razor.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\WebGrease.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.DependencyCollector.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.Web.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.WindowsServer.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.ApplicationInsights.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Newtonsoft.Json.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Net.Http.Formatting.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Helpers.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.WebHost.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Mvc.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Optimization.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Razor.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.Deployment.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.Razor.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Antlr3.Runtime.pdb
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\EntityFramework.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\EntityFramework.SqlServer.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Google.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.Owin.xml
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\obj\Debug\TaskApi.csprojResolveAssemblyReference.cache
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\obj\Debug\TaskApi.dll
+F:\Task Schedule\Task Schedule\TaskApi\TaskApi\obj\Debug\TaskApi.pdb
+F:\Task Schedule\TaskApi\TaskApi\bin\ApplicationInsights.config
+F:\Task Schedule\TaskApi\TaskApi\bin\roslyn\csc.exe
+F:\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Task Schedule\TaskApi\TaskApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Task Schedule\TaskApi\TaskApi\bin\roslyn\System.Collections.Immutable.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\roslyn\System.Reflection.Metadata.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\roslyn\vbc.exe
+F:\Task Schedule\TaskApi\TaskApi\bin\roslyn\VBCSCompiler.exe
+F:\Task Schedule\TaskApi\TaskApi\bin\roslyn\VBCSCompiler.exe.config
+F:\Task Schedule\TaskApi\TaskApi\bin\TaskApi.dll.config
+F:\Task Schedule\TaskApi\TaskApi\bin\TaskApi.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\TaskApi.pdb
+F:\Task Schedule\TaskApi\TaskApi\bin\Antlr3.Runtime.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\EntityFramework.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\EntityFramework.SqlServer.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.DependencyCollector.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.Web.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.WindowsServer.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.ApplicationInsights.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Google.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Web.Infrastructure.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Newtonsoft.Json.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Owin.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Net.Http.Formatting.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.Helpers.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.Owin.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.WebHost.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.Mvc.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.Optimization.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.Razor.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.Deployment.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.Razor.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\WebGrease.dll
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.DependencyCollector.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.Web.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AI.WindowsServer.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.ApplicationInsights.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Newtonsoft.Json.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Net.Http.Formatting.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.Helpers.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.WebHost.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.Mvc.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.Optimization.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.Razor.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.Deployment.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.WebPages.Razor.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Antlr3.Runtime.pdb
+F:\Task Schedule\TaskApi\TaskApi\bin\EntityFramework.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\EntityFramework.SqlServer.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Google.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Task Schedule\TaskApi\TaskApi\bin\System.Web.Http.Owin.xml
+F:\Task Schedule\TaskApi\TaskApi\obj\Debug\TaskApi.csprojResolveAssemblyReference.cache
+F:\Task Schedule\TaskApi\TaskApi\obj\Debug\TaskApi.dll
+F:\Task Schedule\TaskApi\TaskApi\obj\Debug\TaskApi.pdb
